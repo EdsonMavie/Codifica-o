@@ -1,0 +1,32 @@
+body{
+   background-color: rgba(241, 226, 199, 0.911);
+   font-family: Arial, Helvetica, sans-serif;
+       text-align: justify;
+
+}
+header img {
+    width: 700px;
+    height: 700px;
+    border-radius: 3%;
+    border: 5px solid rgba(241, 226, 199, 0.911);
+}
+.imagem{
+    justify-content: center;
+}
+h1{
+    color: rgb(190, 30, 30);
+}
+
+.negrito {
+    font-weight: bold;
+}
+h2{
+    
+}
+
+.pdf-container{
+    display: flex;
+    justify-content: center;
+    list-style-type: none;
+    align-items: center;
+}
